@@ -102,7 +102,8 @@ footer{
 	padding-bottom: 20px;
 	text-align: center;
 	width: 90%;
-	
+	border:1px solid red;
+
 }
 /* ------------------------------------------- Media Queries -------------------------------------------------------*/
 
@@ -113,7 +114,6 @@ footer{
 			width:98%;
 		}	
 	}
-
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
 
