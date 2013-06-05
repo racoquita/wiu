@@ -179,11 +179,13 @@ footer{
 			
 			max-width: 479px;
 		}
-		
+		tr{
+			height: 45px;
+			line-height: 45px;
+		}
 		td{
 			width: 50%;
-			height: 44px;
-			line-height: 44px;
+			
 		}
 	}
 
