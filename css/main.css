@@ -177,7 +177,7 @@ footer{
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
 		#wrapper{
-			width: 98%;
+			width: 96%;
 			
 		}
 		tr{
