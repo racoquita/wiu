@@ -177,6 +177,9 @@ footer{
 		figure {
 			display: none;
 		}
+		figcaption{
+			display: none;
+		}
 		.sec{
 			margin-top: 10px;
 		}
