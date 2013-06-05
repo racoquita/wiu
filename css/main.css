@@ -117,9 +117,9 @@ footer{
 
 		#wrapper{
 			width:98%;
+
 		}
 		.main figure{
-
 			width: 35%;
 		}
 		.main figure img{
@@ -139,12 +139,16 @@ footer{
 			width: 95%;
 	
 		}
+		.main, header, h2{
+			padding-left: 1%;
+			padding-right: 1%;
+		}
 		.main figure{
 			width: 100%;
 			float: right;
 		}
 		.main p{
-			width: 100%;
+			width: 98%;
 		}
 		.main figure img{
 			width: 100%;
