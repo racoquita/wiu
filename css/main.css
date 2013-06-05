@@ -136,7 +136,7 @@ footer{
 	/* All Mobile Sizes (devices and browser) */
 	@media only screen and (max-width: 767px) {
 		#wrapper{
-			width: 98%;
+			width: 96%;
 		}
 		.main figure{
 			width: 100%;
