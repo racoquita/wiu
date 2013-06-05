@@ -177,7 +177,6 @@ footer{
 	@media only screen and (max-width: 479px) {
 		#wrapper{
 			width: 96%;
-			
 		}
 		figure {
 			display: none;
