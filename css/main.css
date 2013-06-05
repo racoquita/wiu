@@ -108,8 +108,7 @@ footer{
 	@media only screen and (max-width: 959px) {
 		#wrapper{
 			width:98%;
-		}
-		
+		}	
 	}
 
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
@@ -148,13 +147,10 @@ footer{
 		}
 		.main figure img{
 			width: 100%;
-
 		}
 		td{
-	
 			width: 50%;
 		}
-
 	}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
@@ -164,7 +160,6 @@ footer{
 			min-width: 480px;
 			max-width: 767px;
 		}
-		
 		.main p{
 			width: 100%;
 		}
@@ -173,7 +168,6 @@ footer{
 			width: 50%;
 		}
 	}
-
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
 		#wrapper{
