@@ -180,9 +180,15 @@ footer{
 			width: 96%;
 			
 		}
+		figure{
+			display: none;
+		}
+		.sec{
+			margin-top: 10px;
+		}
 		tr{
-			height: 45px;
-			line-height: 45px;
+			height: 44px;
+			line-height: 44px;
 		}
 		td{
 			width: 50%;
